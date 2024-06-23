@@ -28,7 +28,7 @@ How to Use
 
     bash
 
-git clone https://github.com/your-username/studysuccess-predictor.git
+git clone https://github.com/wahid-najim/studysuccess-predictor.git
 
 Install Dependencies:
 
